@@ -2,8 +2,8 @@ name: Kernel Build
 
 on:
   push:
-  schedule:
-    - cron: '30 5 * * 1'
+  #schedule:
+    #- cron: '30 5 * * 1'
 
 jobs:
 
